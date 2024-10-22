@@ -19,12 +19,12 @@ Before you begin, ensure you have the following installed on your system:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/mavrekc/react-todo-app-with-login.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd react-todo-app
+   cd react-todo-app-with-login
    ```
 
 3. Install dependencies:
